@@ -1,3 +1,3 @@
 # djangotest
-trail on coonecting atom with github
+trail on connecting atom with github
 using youtube
